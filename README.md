@@ -6,11 +6,11 @@ A REST API for tracking expenses and income with user authentication, built usin
 
 - User authentication with JWT tokens.
 - Expense/income tracking with flat and percentage tax calculations.
-- Role-based access control (regular users vs. superusers).
+- Role-based access control (Regular users vs. Superusers).
 - Paginated API responses.
 - Full CRUD operations for expense/income records.
 - Comprehensive test covering authentication, CRUD, business logic, and permissions.
-- Technologies**: Django, Django REST Framework, Django REST Framework SimpleJWT, Docker.
+- Technologies: Django, Django REST Framework, Django REST Framework SimpleJWT, Docker.
 
 
 # Setup Instructions
